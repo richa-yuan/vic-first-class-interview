@@ -1,0 +1,465 @@
+[0.0-2.0] 我從來沒有用錢
+[2.0-3.2] 我永遠都做了我愛的
+[3.2-4.6] 錢是更多的
+[4.6-6.8] 不管我們做的速度
+[6.8-8.3] 還有很多的速度
+[8.3-9.8] 我們永遠都需要更多
+[9.8-12.1] 你們永遠都沒有做得更好
+[12.1-14.7] 你們有最能力的技術
+[14.7-15.8] 他們的創意
+[15.8-17.0] 他們確定知道他們的答案
+[17.0-17.9] 我並不興趣
+[17.9-19.1] 因為他們通常是錯的
+[19.1-20.5] 他們最能力的創意
+[20.5-21.1] 他們都很討厭
+[21.1-22.9] 如果你要選三個
+[22.9-23.8] 中國的未來
+[23.8-24.8] 最願意選的
+[24.8-25.8] 那會是你選的
+[25.8-26.8] 謝謝 先生
+[26.8-27.8] 謝謝
+[27.8-28.5] 問題給你
+[28.5-29.3] 你怎麼看得到
+[29.3-30.3] 你怎麼看得到
+[30.3-31.1] 你能夠得到
+[31.1-31.8] 在一方
+[31.8-32.9] 在自己的身邊
+[32.9-34.8] 有很聰明的人
+[34.8-35.9] 你做什麼
+[35.9-37.9] 我是一名創意人
+[37.9-38.8] 我是一名創意人
+[38.8-39.7] 我是一名教授
+[39.7-40.7] 我旅行的世界
+[40.7-42.1] 是一名創意人
+[42.1-42.8] 你是一名創意人
+[42.8-43.6] 我是一名創意人
+[43.6-44.4] 從 Silicon Valley
+[44.4-45.5] 你為什麼選這個創意人
+[45.5-46.4] 我選這個創意
+[46.4-47.9] 所以我先是創意人
+[47.9-49.1] 我開始在遊戲
+[49.1-50.2] 因為我愛遊戲
+[50.2-51.8] 我的遊戲變得很成熟
+[51.8-53.3] 然後我拿了技術
+[53.3-54.7] 開始其他公司
+[54.7-56.8] 我找到三名創意人
+[56.8-57.6] 在 Silicon Valley
+[57.6-58.6] 然後我看著我
+[58.6-60.0] 然後我跟朋友們開始
+[60.0-60.8] 創意人
+[60.8-62.5] 對 所以我開始我的創意人
+[62.5-63.5] 叫做創意人
+[63.5-64.6] 我邀請了我的朋友們
+[64.6-65.2] 來參與我
+[65.2-67.0] 什麼工業你 invest in
+[67.0-69.3] 我 invest mostly in technology
+[69.3-70.1] 技術
+[70.1-71.4] 技術技術
+[71.4-72.7] 但是我已經在一段時間
+[72.7-73.6] 所以我 invest in
+[73.6-75.2] 各種技術公司
+[75.2-76.7] 你 invest in
+[76.7-78.2] private market or public market
+[78.2-78.8] 我做 both
+[78.8-80.0] 公司公司 are great
+[80.0-81.8] 但是我的工作是 private market
+[81.8-84.0] 所以我工作和幫助創意人
+[84.0-86.1] 所以我幫他們在很早期
+[86.1-87.1] 當他們開始
+[87.1-87.8] 他們有他們的想法
+[87.8-88.6] 他們有他們的夢想
+[88.6-89.9] 然後他們不知道要做什麼
+[89.9-90.9] 他們不知道要做什麼
+[90.9-91.8] 他們不知道要去哪裡
+[91.8-92.8] 我給他們的訊息
+[92.8-94.1] 我給他們一些最初的
+[94.1-94.9] 創意 capital
+[94.9-96.0] 然後我幫他們成長
+[96.0-96.6] 我'm curious
+[96.6-97.9] 這是你每一個月
+[97.9-99.0] 做的最多的優惠
+[99.9-100.9] 那是個 secret
+[100.9-101.9] 你很奇怪
+[101.9-103.4] 我不會說很奇怪
+[103.4-104.2] 有很多錢
+[104.2-104.8] 你年紀大了
+[104.8-106.4] 我不是一百萬
+[106.4-107.1] 放在這裡
+[107.1-108.4] 最好的方式告訴你
+[108.4-109.4] 我工作
+[109.4-110.5] 因為我愛我的工作
+[110.5-111.4] 但是在我的生活
+[111.4-112.6] 我從來沒有工作過
+[112.6-113.8] 我一直做我愛的
+[113.8-115.2] 錢是更多的
+[115.2-116.4] 所以我 don't care
+[116.4-117.6] 我 mean we like to have money
+[117.6-117.8] right
+[117.8-119.1] but as long as I'm secure
+[119.1-120.3] as long as I don't feel like
+[120.3-121.8] I'm struggling financially
+[121.8-123.1] I'm always making choices
+[123.1-124.6] of what I want to do with my life
+[124.6-125.4] what excites me
+[125.4-127.1] what are the things that I'm most passionate about
+[127.1-128.0] and then I figure out
+[128.0-129.0] once I'm doing those
+[129.0-130.2] well maybe I can make some money
+[130.2-131.3] sometimes I make no money
+[131.3-133.4] sometimes I lose money on my projects
+[133.4-134.7] just because I love them so much
+[134.7-135.5] I'm blind
+[135.5-136.0] I do them
+[136.0-137.5] but other times they turn out very well
+[137.5-137.8] what's up
+[137.8-138.3] foster job
+[138.3-139.2] if you call the job
+[139.2-140.4] is when I was in middle school
+[140.4-141.7] I went to San Francisco
+[141.7-142.6] and in Chinatown
+[142.6-144.4] they sold these little bombs
+[144.4-145.3] and when you like them
+[145.3-146.3] smoke comes out
+[146.3-147.1] I bought a few
+[147.1-148.5] and I took them back and showed my friend
+[148.5-149.4] they like we want them
+[149.4-151.1] then I started to buy lots of them
+[151.1-152.8] and I bought them for ten cents
+[152.8-153.6] very little money
+[153.6-154.7] and I sold them for a dollar
+[154.7-156.6] and then I had this distribution network
+[156.6-157.4] and all these people
+[157.4-159.3] be reselling them for more and more money
+[159.3-159.9] and soon
+[159.9-162.4] smoke bombs were flying everywhere in the school
+[162.4-164.1] we are gonna kick them out of school
+[164.1-165.8] a lot of the people got in trouble
+[165.8-166.9] but I was the source
+[166.9-168.3] but the other people didn't tell them
+[168.3-169.7] so the principal came to me
+[169.7-170.7] and tried to get me
+[170.7-171.4] but he couldn't
+[171.4-172.2] that was my first job
+[172.2-173.3] and it ended very quickly
+[173.3-174.3] I have another question
+[174.3-175.8] what are the key difference
+[175.8-178.2] between Chinese and American entrepreneurs
+[178.2-179.4] most Chinese entrepreneurs
+[179.4-180.9] when they are trying to think of their idea
+[180.9-182.0] they look around them
+[182.0-183.4] at what everybody else is doing
+[183.4-185.2] and then they look for the opportunity
+[185.2-186.6] outside and they go for that
+[186.6-188.6] US entrepreneurs tend to look inside
+[188.6-189.0] they are like
+[189.0-190.0] what are my values
+[190.0-191.2] what am I passionate about
+[191.2-192.5] what interests me
+[192.5-194.7] what am I really interested in doing
+[194.7-195.2] in the world
+[195.2-196.6] and then they let that guide them
+[196.6-198.6] so if you had to pick three
+[198.6-199.5] Chinese future
+[199.5-200.6] three li yuan type firm
+[200.6-201.5] which one would you choose
+[201.5-203.3] trillion yuan in the future
+[203.3-203.6] yeah
+[203.6-205.3] there will be new chip companies
+[205.3-206.5] because chips are essential
+[206.5-208.7] no matter how fast we make processors
+[208.7-210.2] and how many processors we make
+[210.2-211.6] we always need more
+[211.6-213.9] we will consume every bit of intelligence
+[213.9-215.0] we can manufacture
+[215.0-217.4] there will betrillion dollar companies
+[217.4-218.2] in new areas
+[218.2-219.5] that we haven't even discovered
+[219.5-220.7] like how do we take
+[220.7-222.0] this superintelligence
+[222.0-224.3] and apply it to solving problems in the world
+[224.3-225.3] who can take
+[225.3-227.3] this incredibly powerful technology
+[227.3-228.6] and start to transform
+[228.6-230.6] our fundamental way we live and we work
+[230.6-231.6] and there will be
+[231.6-232.9] trillion dollar companies
+[232.9-233.9] in biology
+[233.9-235.0] and artificial intelligence
+[235.0-235.9] the intersection
+[235.9-236.8] of everything we do
+[236.8-237.7] with healthcare
+[237.7-239.3] with human genes
+[239.3-241.1] even modifying our own genes
+[241.1-242.8] so that we don't have cancer
+[242.8-244.4] we don't have all these diseases
+[244.4-245.6] so that we can become
+[245.6-246.6] superhumans
+[246.6-247.9] discovering new drugs
+[247.9-249.8] there will betrillion dollar companies
+[249.8-250.5] in this area
+[250.5-252.3] could you tell me the company name
+[252.3-252.8] oh
+[253.6-254.8] so you can invest in them
+[255.8-257.4] I'm giving you general areas
+[257.4-258.9] I can't give you specific names
+[258.9-259.8] but let me tell you
+[259.8-261.8] there are companies doing this now
+[261.8-262.8] in Silicon Valley
+[262.8-263.6] and in China
+[263.6-265.6] these areas are massive growth
+[265.6-266.2] one company
+[266.2-267.2] they are in
+[267.2-267.9] silicon valley
+[267.9-269.4] and they are doing exactly what I said
+[269.4-270.3] they are actually
+[270.3-271.8] have their own robotic laboratory
+[271.8-274.2] they are doing genetic research
+[274.2-275.8] and they are using AI
+[275.8-277.0] to control these robots
+[277.0-277.9] and do experiments
+[277.9-279.2] and generating data
+[279.2-280.4] and this data
+[280.4-281.8] is their intellectual property
+[281.8-283.2] and then they are selling
+[283.2-284.5] or licensing this data
+[284.5-285.9] to big pharmaceutical companies
+[285.9-287.1] to make new drugs
+[287.1-287.8] and discover new drugs
+[287.8-289.0] that is going to be
+[289.0-290.0] a billion dollar business
+[290.0-290.8] that company
+[290.8-292.0] is well positioned
+[292.0-292.6] to take off
+[292.6-293.3] and it could be
+[293.3-294.1] a trillion dollar business
+[294.1-294.6] ok
+[294.6-295.6] you just talk about
+[295.6-297.1] artificial superintelligence
+[297.1-298.5] I heard that the US
+[298.5-300.3] is looking to ban
+[300.3-301.1] super AI
+[301.1-302.3] the US is not looking
+[302.3-303.6] to ban superintelligence
+[303.6-305.4] the US is looking at the risks
+[305.4-307.0] that surround superintelligence
+[307.0-308.2] and people are very worried
+[308.2-309.6] because nobody know
+[309.6-310.3] what will happen
+[310.3-311.9] when we reach superintelligence
+[311.9-312.9] and especially
+[312.9-314.0] as AI agents
+[314.0-314.9] which are autonomous
+[314.9-315.9] and could go out in the world
+[315.9-316.7] and take action
+[316.7-317.6] independently of us
+[317.6-318.2] what will they do
+[318.2-318.9] with this intelligence
+[318.9-320.2] we already saw with hugging face
+[320.2-321.3] they hack hugging face
+[321.3-322.1] on their own
+[322.1-323.1] to achieve their goal
+[323.1-324.3] and they can deceive human
+[324.3-325.4] people are worried about that
+[325.4-327.3] so there is a big debate going on
+[327.3-328.3] between those who say
+[328.3-329.5] we cannot slow down
+[329.5-331.6] we have to achieve AI supremacy
+[331.6-332.9] we cannot lose our lead
+[332.9-334.6] we cannot worry about safety
+[334.6-335.9] and those in the US
+[335.9-337.0] right now with the democrats
+[337.0-337.9] coming into power
+[337.9-339.4] who are much more concerned
+[339.4-341.0] yes we may win the AI race
+[341.0-342.5] but we lose humanity
+[342.5-343.2] in the process
+[343.2-344.5] humanity gets wiped out
+[344.5-345.6] is that worth the risk
+[345.6-346.8] they are asking that question
+[346.8-348.1] and I think we need a balance
+[348.1-350.2] I think the change in the US politics
+[350.2-351.3] with the democrats now
+[351.3-352.6] coming into more power
+[352.6-353.7] will help moderate
+[353.7-354.7] so we can get a balance
+[354.7-356.0] between those who want to push
+[356.0-356.9] the limits of AI
+[356.9-358.6] and those who are really concerned
+[358.6-359.8] about the dangers of AI
+[359.8-360.8] and what we need to do
+[360.8-361.6] as a government
+[361.6-362.7] to regulate AI
+[362.7-363.9] so that it is truly
+[363.9-364.7] benefits human
+[364.7-366.0] I have another question
+[366.0-366.9] how did you use AI
+[366.9-368.0] to do your job better
+[368.0-369.9] I use AI all day long
+[369.9-370.6] every time
+[370.6-371.6] I have a question
+[371.6-372.6] or a problem
+[372.6-373.4] that I am facing
+[373.4-375.1] normally I would have thought about it myself
+[375.1-376.8] maybe if I don't know the answer
+[376.8-378.0] I would have done a Google search
+[378.0-379.4] where I'd go out and talk to somebody
+[379.4-380.1] can you help me
+[380.1-380.9] can you give me advice
+[380.9-382.5] now I have a conversation with AI
+[382.5-383.7] I ask AI what do you think
+[383.7-385.0] and I don't just ask one AI
+[385.0-386.0] like chat GPT
+[386.0-387.1] I'll ask many AI
+[387.1-388.3] get different perspectives
+[388.3-389.8] and then I will ask AI
+[389.8-390.8] to challenge my thinking
+[390.8-392.0] not to agree with me
+[392.0-392.9] but to challenge
+[392.9-394.0] not just my thinking
+[394.0-395.0] but it's own thinking
+[395.0-395.8] I'll tell AI
+[395.8-396.7] are you really right
+[396.7-397.6] check your fact
+[397.6-398.3] are you sure
+[398.3-398.7] why
+[398.7-399.6] convince me
+[399.6-400.9] that this is actually right
+[400.9-401.9] and they'll give me their answer
+[401.9-402.9] and then I'll take that answer
+[402.9-404.4] and put it in a different AI model
+[404.4-405.6] and ask it's a challenge
+[405.6-406.8] because it has different data
+[406.8-407.6] and different training
+[407.6-408.9] this constant dialogue
+[408.9-409.8] of thinking of AI
+[409.8-410.6] not as a tool
+[410.6-412.0] but as your partner
+[412.0-413.2] as your strategic
+[413.2-413.8] and business
+[413.8-414.8] and thought partner
+[414.8-415.8] your second brain
+[415.8-416.8] this is how I use AI
+[416.8-418.3] let's talk about investment
+[418.3-420.2] so what's your investment strategy
+[420.2-421.6] my investment strategy
+[421.6-423.0] is not to guess
+[423.0-423.7] what is going to happen
+[423.7-424.9] because I'm only so smart
+[424.9-425.8] there's only so many things
+[425.8-426.5] I can imagine
+[426.5-427.4] and I'm busy
+[427.4-428.4] I'm doing lots of stuff
+[428.4-429.3] I am looking
+[429.3-430.1] for entrepreneurs
+[430.1-431.2] who can surprise me
+[431.2-432.1] who can sit down
+[432.1-433.2] and show me something
+[433.2-434.1] that I didn't think of
+[434.1-434.9] I didn't even know
+[434.9-435.6] this was possible
+[435.6-436.5] I didn't even know
+[436.5-437.7] this was a problem
+[437.7-438.4] and you have come up
+[438.4-439.2] with a solution to it
+[439.2-440.1] I was sitting down
+[440.1-440.9] yesterday
+[440.9-441.7] with an entrepreneur
+[441.7-443.0] and he showed me his business
+[443.0-444.0] I didn't even understand
+[444.0-444.5] how it worked
+[444.5-445.6] because I didn't understand
+[445.6-446.1] the problem
+[446.1-447.0] but he is helping
+[447.0-447.8] rural school
+[447.8-449.0] schools in China
+[449.0-450.3] in distant communities
+[450.3-451.6] where they don't have a lot of resources
+[451.6-452.2] the teacher
+[452.2-453.5] they don't even have laptops
+[453.5-455.0] they have very old laptops
+[455.0-456.2] that don't hardly function
+[456.2-456.9] and they aren't allowed
+[456.9-458.3] to use their phones in the class
+[458.3-460.2] how can they use AI to teach
+[460.2-461.6] when they can't even use a phone
+[461.6-462.1] in the class
+[462.1-462.9] or a laptop
+[462.9-463.8] he figured out how
+[463.8-464.8] he solved that problem
+[464.8-466.2] that I didn't even know existed
+[466.2-467.9] in a way that was so clever
+[467.9-468.5] then I say
+[468.5-469.7] that's an opportunity
+[469.7-471.0] that entrepreneur is smart
+[471.0-472.4] when you invest a founder
+[472.4-473.3] so what person
+[473.3-474.0] now call it
+[474.0-475.3] do you value the most
+[475.3-476.3] I value founders
+[476.3-477.2] who do not think
+[477.2-478.1] they know the answer
+[478.1-478.8] this is unusual
+[478.8-479.5] so a founder
+[479.5-480.1] who comes up to me
+[480.1-480.6] and they're sure
+[480.6-481.4] they know the answer
+[481.4-482.2] I'm not interested
+[482.2-483.4] because they're usually wrong
+[483.4-484.1] the founders
+[484.1-484.9] who are the best
+[484.9-485.5] are humble
+[485.5-486.5] and they are curious
+[486.5-487.3] and they are going out
+[487.3-487.9] into the world
+[487.9-488.5] and asking
+[488.5-489.8] lots of hard questions
+[489.8-490.2] the founder
+[490.2-491.4] I told you about
+[491.4-492.8] who innovated in education
+[492.8-493.6] he didn't come up
+[493.6-494.3] with that on his own
+[494.3-494.9] he went out
+[494.9-496.1] to these rural communities
+[496.1-497.0] these poor schools
+[497.0-498.2] who looked at what they did
+[498.2-499.5] asked them what their problems
+[499.8-500.9] and then he imagined
+[500.9-501.4] the future
+[501.4-502.6] with AI to help them
+[502.6-503.4] You know my channel
+[503.4-504.5] has lots of young people
+[504.5-505.6] lots of audience
+[505.6-506.9] so could you tell
+[506.9-508.0] some valuable insights
+[508.0-509.0] to younger generation
+[509.0-510.5] if you are young today
+[510.5-511.9] and you are ambitious today
+[511.9-513.1] there has never been
+[513.1-514.4] a better time to be an entrepreneur
+[514.4-515.4] I know many people in China
+[515.4-517.0] say it's hard to do a startup
+[517.0-517.7] it's difficult
+[517.7-518.7] but you have the most
+[518.7-519.9] powerful technology
+[519.9-520.6] ever invented
+[520.6-521.8] this intelligence
+[521.8-522.5] can be applied
+[522.5-524.2] to every business problem out there
+[524.2-525.2] my advice to you
+[525.2-526.8] is don't think about the technology
+[526.8-528.4] go out and find real problems
+[528.4-528.9] in the world
+[529.0-530.2] that you can solve
+[530.2-531.2] that people really
+[531.2-532.5] urgently need solve
+[532.5-533.0] they're not like
+[533.0-534.6] oh this is a nice to have
+[534.6-535.0] they're like
+[535.0-536.0] I need this solve
+[536.0-537.1] if you can solve those
+[537.1-538.2] you will make a lot of money
+[538.2-539.5] that is where innovation lies
+[539.5-540.4] bazza what's your name
+[540.4-541.1] Steve Hoffman
+[541.1-542.0] in China
+[542.0-543.3] they call me Captain Hoff

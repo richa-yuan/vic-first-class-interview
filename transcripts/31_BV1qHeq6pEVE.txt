@@ -1,0 +1,415 @@
+[0.0-1.6] 生活在美國
+[1.6-2.4] 特朗普
+[2.4-4.3] 我非常喜歡這類型
+[4.3-7.6] 我一直以為是一種社會關閉
+[7.6-8.3] 非常關閉
+[8.3-9.0] 不是這樣的情況
+[9.0-10.6] 我認為這個世界很厲害
+[10.6-11.6] 生活在自由世界
+[11.6-13.8] 有很多規則和規則
+[13.8-15.2] 你不需要工作
+[15.2-18.6] 你不需要工作在16、17、22年
+[18.6-20.2] 你可以工作在26年
+[20.2-22.2] 你仍然花了40年
+[22.2-22.9] 想想
+[22.9-24.0] 如果A.I.是最大的
+[24.0-25.1] 我們覺得可以得到
+[25.1-27.6] 那些人在中國會不會有工作
+[27.6-29.5] 100多萬
+[29.5-30.0] 先生
+[30.0-31.4] 你有任何問題嗎
+[31.4-32.0] 我當然有
+[32.0-33.0] 我是電視創作人
+[33.0-34.3] 我是電視創作人
+[34.3-35.2] 在中國聊天
+[35.2-36.0] 我做什麼
+[36.0-36.5] 我做什麼
+[36.5-38.0] 我去世界上
+[38.0-39.6] 學會了很多人
+[39.6-41.1] 我做了很多人
+[41.1-42.3] 我旅行經營
+[42.3-43.3] 什麼叫經營
+[43.3-44.0] 經營
+[44.0-44.7] 什麼樣的經營
+[44.7-45.9] 經營
+[45.9-47.4] 我們叫經營
+[47.4-48.8] 我們經營經營
+[48.8-50.0] 我們有很多公司
+[50.0-51.9] 我們經營四個經營
+[51.9-55.2] 我們有26億美元的經營
+[55.2-56.4] 一百億
+[56.4-57.3] 不
+[57.3-58.2] 不
+[58.2-59.4] 我還可以
+[59.4-60.4] 在我們的經營
+[60.4-61.7] 如果你在最高
+[61.7-66.1] 你大概30到50億美元一年
+[66.1-67.6] 但那是最高
+[67.6-71.0] 所以大概20萬人
+[71.0-72.0] 所以公司都知道
+[72.0-72.6] 不
+[72.6-74.0] 我擔任經營
+[74.0-75.0] 但我的公司
+[75.0-78.0] 是世界上最大的經營
+[78.0-80.9] 我們經營106萬人
+[80.9-82.0] 我們有很多公司
+[82.0-83.4] 我們有大多數的公司
+[83.4-84.5] 在紐約城市
+[84.5-85.1] 我住的
+[85.1-86.1] 我住在漫漢
+[86.6-87.6] 原來是從 London
+[87.6-89.4] 但我住在紐約城市
+[89.4-91.4] 我住了32年
+[91.4-92.6] 我現在在工作
+[92.6-94.0] 所以我必須去
+[94.0-96.2] 蒙古卡洛在南韓
+[96.2-98.1] 我去到那裡
+[98.1-98.5] 你去過嗎
+[98.5-99.4] 對
+[99.4-100.6] 我每年都去
+[100.6-102.8] 我 think I've been going for 27 years
+[102.8-104.1] 這次的旅程是最新的
+[104.1-104.7] 不是
+[104.7-106.1] 這是一項開心
+[106.1-107.1] 我住了一個月
+[107.1-108.8] 然後我去到紐約
+[108.8-109.9] 我去到古比德納
+[109.9-111.2] 去到加拿大
+[111.2-112.8] 然後我就去到加拿大
+[112.8-113.1] 好
+[113.1-113.8] 你覺得怎麼樣
+[113.8-114.2] 我喜歡
+[114.2-115.7] 現在是我的第四次
+[115.8-118.1] 從 your first time and the first time
+[118.1-119.5] 是 a big change in China
+[119.5-120.3] What's your cap?
+[120.3-122.1] Did you have about China before?
+[122.1-123.6] You know, living in America
+[123.6-124.3] You know, Trump
+[124.3-126.4] I hate disliking very much
+[126.4-130.2] I always thought it was a closed society
+[130.2-131.0] Very close
+[131.0-131.4] Not the case
+[131.4-133.6] I mean, it's been incredible to me
+[133.6-135.0] How open people are
+[135.0-136.2] How friendly people are
+[136.2-137.2] And caring
+[137.2-139.3] Everyone seems to care for one another
+[139.3-140.6] We're in the western world
+[140.6-141.9] Maybe some countries
+[141.9-144.4] But America, United Kingdom
+[144.4-145.2] France, Germany
+[145.2-146.0] I don't know
+[146.0-148.2] And the technology in China
+[148.2-149.9] Is beyond anything
+[149.9-150.9] Living in the free world
+[150.9-153.0] There's so many rules and regulations
+[153.0-153.8] You can't do this
+[153.8-154.6] You can't do that
+[154.6-155.0] We're here
+[155.0-156.4] People are just encouraged to
+[156.4-158.1] The other thing I like about China is
+[158.1-159.8] One thing I thought before I came is
+[159.8-161.8] Oh, it's the air quality
+[161.8-162.8] It's not going to be good
+[162.8-165.4] You hear these stories of all these factories
+[165.4-167.2] And pollution and everything else
+[167.2-168.2] Since I've been coming here
+[168.2-170.5] I've noticed that the pollution is better
+[170.5-172.1] The air quality is better here
+[172.1-173.6] Then I find in New York sometimes
+[173.6-174.4] It's true
+[174.4-176.0] I think people get the wrong impression
+[176.0-177.8] China and pollution
+[177.8-178.9] I think China is doing everything
+[178.9-180.3] He can control it
+[180.3-181.7] By shutting down factories
+[181.7-183.4] If the air quality is too bad
+[183.4-185.4] I like the idea that there's one day
+[185.4-187.0] Of every week that you can't drive
+[187.0-188.0] You can't get the Uber
+[188.0-189.0] Or just get a taxi
+[189.0-189.8] Or you get a cycle
+[189.8-191.7] That would be fantastic in New York City
+[191.7-193.0] But can you imagine
+[193.0-194.8] Americans agreeing to that
+[194.8-195.6] No one would care
+[195.6-196.9] The good thing about China also
+[196.9-198.1] Is family
+[198.1-199.4] How important family is
+[199.4-201.9] You know, the family unit is like everything
+[201.9-204.2] So everyone has a connection for family
+[204.3-206.0] I think a lot of places in the world
+[206.0-207.1] Not so much now
+[207.1-208.4] I don't know why
+[208.4-209.4] Maybe people just fly
+[209.4-211.0] Do things, you know, whatever
+[211.0-212.5] But in China, I like the idea
+[212.5-214.3] That it has its traditions
+[214.3-216.5] Archaeological digs that they do
+[216.5-218.3] They find all these new cities
+[218.3-219.0] That's it
+[219.0-221.2] Vitok, for instance, the terracotta arm
+[221.2-222.4] It's amazing, right?
+[222.4-223.4] And then, you know
+[223.4-225.9] I went up to like the Gobi Desert
+[225.9-227.4] You know, there's temples there
+[227.4-229.8] That go back 5,000 years
+[229.8-231.6] You know, it's just mind-boggling
+[231.6-233.3] I like this society
+[233.3-234.2] I feel safe
+[234.2-236.4] I've been living in Manhattan for 32 years
+[236.4-237.8] I've been there for 9-11
+[237.8-239.4] I've seen really bad crime
+[239.4-240.5] Every day on the streets
+[240.5-241.6] There's bad crime
+[241.6-242.8] There's homelessness
+[242.8-245.2] You know, there's crazy people on every corner
+[245.2-247.4] Very, very anxious all the time
+[247.4-248.5] In your industry
+[248.5-250.7] What difference between your country and my country?
+[250.7-253.0] I think as far as in my business
+[253.0-255.4] The insurance business is very advanced
+[255.4-257.2] Because everyone buys insurance, right?
+[257.2-259.5] For cars, for their houses
+[259.5-260.6] For themselves
+[260.6-262.1] In China, it's not as big
+[262.1-263.2] People buy car insurance
+[263.2-264.8] But they don't buy house insurance
+[264.8-266.6] So I think the difference really between
+[266.6-269.4] China, America and other western countries
+[269.4-271.0] Is that they're far more advanced
+[271.0-272.4] In insurance, it's a big
+[272.4-273.4] Everyone buys it
+[273.4-275.7] Where in China, 1.4 billion people
+[275.7-277.6] I don't know how many people buy insurance
+[277.6-280.0] Imagine if you could get 20%
+[280.0-281.4] To buy insurance
+[281.4-282.1] That's money
+[282.1-284.6] What do you think about China in the future?
+[284.6-285.7] Whatever industry
+[285.7-286.4] Maybe tech
+[286.4-287.8] Maybe pharmaceutical
+[287.8-288.7] It's unlimited
+[288.7-290.3] It's got great pharmaceutical companies
+[290.3-293.1] It's got its own domestic car industry
+[293.1-295.0] You then got the technology itself
+[295.0-296.3] I would say
+[296.3-298.0] I see China becoming more
+[298.0-300.4] Self-efficient for everything
+[300.4-302.6] It's still have things coming from other countries
+[302.6-305.1] Minorals and certain things that it needs
+[305.1-307.4] But I think like building their own airplanes
+[307.4-309.0] China's not really, you know
+[309.0-311.2] It's Airbus or it's or Boeing
+[311.2-312.5] And they're the two major
+[312.5-314.6] China doesn't have its own
+[314.6-316.5] Manufacturing airplane business
+[316.5-317.7] Which to me seems
+[317.7-318.2] Why not?
+[318.2-319.6] I mean, so many planes
+[319.6-320.9] Needed and required
+[320.9-321.4] I'm curious
+[321.4-323.5] Now you become a manager
+[323.5-324.6] So what's the meaning of life?
+[324.6-325.6] The idea is
+[325.6-327.3] You don't live to work
+[327.3-328.8] Your life shouldn't be all about work
+[328.8-330.9] Work is part of your life
+[330.9-332.1] That's the real meaning of life
+[332.1-332.9] So that means
+[332.9-334.3] You spend more time in your family
+[334.3-335.8] You spend more time on vacation
+[335.8-338.4] You spend more time recreationally doing stuff
+[338.4-339.8] That is good for your body
+[339.8-340.8] Good for your mind
+[340.8-341.9] That to me is really important
+[341.9-342.8] As we all know
+[342.8-345.0] Everyone talk about AI now
+[345.0-345.7] Yeah
+[345.7-347.1] So how do you see?
+[347.1-348.5] I actually see government
+[348.5-349.4] China Russia
+[349.4-350.2] America
+[350.2-351.2] European Union
+[351.2-353.7] Really worried about AI
+[353.7-355.1] There will be in the next
+[355.1-356.2] Two to five years
+[356.2-357.4] Pretty strict laws
+[357.4-359.2] On what AI can do
+[359.2-359.9] Imagine
+[359.9-362.2] If AI was as big as we think it can get
+[362.2-364.7] How many people in China would be without jobs?
+[364.7-366.5] Hundreds and hundreds of millions, right?
+[366.5-368.6] So you don't want people out of jobs
+[368.6-369.7] You want people in jobs
+[369.7-371.6] The artificial intelligence I think is
+[371.6-373.0] Governments are going to go
+[373.0-374.0] Come down on it hard
+[374.0-375.9] Because once they realize
+[375.9-376.6] People out of jobs
+[376.6-377.6] Haven't got any money
+[377.6-378.8] Can't feed themselves
+[378.8-380.8] That's when everyone starts to fight
+[380.8-382.2] The old adage is that
+[382.2-384.0] If you keep the people's belly full
+[384.0-384.8] They'll be happy
+[384.8-385.6] No sense
+[385.6-386.7] It's basic, right?
+[386.7-388.9] I think AI is going to be great
+[388.9-390.8] Like for medical issues
+[390.8-392.4] And better living and everything else
+[392.4-395.4] But I think it's going to have to be curtailed
+[395.4-396.2] Do you use AI?
+[396.2-396.5] Yeah
+[396.5-398.4] How did you use AI to do your job?
+[398.4-400.3] We have our own internal GPT
+[400.3-401.3] We don't use external
+[401.3-402.8] It's all internal for the company
+[402.8-403.8] So it's all about insurance
+[403.8-406.0] So I can gather data
+[406.0-406.9] Analyze the data
+[406.9-409.0] So I'll get someone to analyze it for me
+[409.0-410.0] The AI
+[410.0-412.0] I can then cross-reference to
+[412.0-413.5] 80 years of history
+[413.5-416.2] Because we have everything historically in AI now
+[416.2-417.4] We call it our data
+[417.4-418.4] Our data lake
+[418.4-421.2] It's all our data for 80 years now in the lake
+[421.2-422.0] My job
+[422.0-423.3] Where are you to take me three days
+[423.3-425.4] To do two days, three days to do something
+[425.4-427.0] Probably less than a day
+[427.0-428.5] And then that allows me to do
+[428.5-429.7] Think about other things
+[429.7-431.2] Because I have to produce business
+[431.2-431.9] That's my role
+[431.9-433.6] I have to go and get customers
+[433.6-435.0] On my company a lot of money
+[435.0-437.4] For very good reason, right?
+[437.4-438.9] But I find AI
+[438.9-439.9] Even if I'm doing
+[440.5-441.9] I'm very good at emails
+[441.9-443.2] I'm in my 60s, right?
+[443.2-444.0] So I know how to write
+[444.0-444.8] Just 60?
+[444.8-445.3] Yeah
+[445.3-446.4] Wow, impressive
+[446.4-447.0] Thank you
+[447.0-448.0] I'm unbelievable
+[448.0-448.6] Really?
+[448.6-449.0] Sure
+[449.0-449.5] Yeah, yeah, yeah
+[449.5-450.2] I'm starting
+[450.2-450.8] You're looking
+[450.8-452.8] I'm better now than I was when I'm 30
+[452.8-454.8] But AI has really helped my job
+[454.8-456.6] The problem, though, for me
+[456.6-458.8] Is once I'm in it, I can't get out
+[458.8-459.4] Oh, let's try this
+[459.4-460.2] Let's try that
+[460.2-463.5] So I spend all day on AI solutions
+[463.5-464.6] But I'm not picking up the phone
+[464.6-465.9] And talking to my clients
+[465.9-466.8] So it's a real balance
+[466.8-468.8] But my company has track of that
+[468.8-471.0] If it sees you too much in AI
+[471.0-472.4] It will give you a warning
+[472.4-474.4] You know, my channel has lots of young people
+[474.4-476.0] Has lots of audience
+[476.0-478.3] So could you share some insights
+[478.3-479.8] To younger generation
+[479.8-481.0] Yeah, firstly is
+[481.0-482.7] Don't rush to work
+[482.7-484.5] You're going to be working for a long time
+[484.5-486.4] You're probably working 30, 40
+[486.4-487.7] Maybe even 50 years
+[487.7-489.7] Taking time to go to college
+[489.7-491.7] Study a topic that you love
+[491.7-492.9] And then go into work
+[492.9-496.4] You don't need to be working at 16, 17, 22
+[496.4-498.0] You can go to work at 26
+[498.0-500.0] You still probably have 40 years of work
+[500.0-502.3] What I say to people coming into my business
+[502.3-504.1] Is listen, even though this is a job
+[504.1-505.5] You must keep studying
+[505.5-506.6] You have to study
+[506.6-507.6] And if you need time off
+[507.6-508.8] We'll give you the time off
+[508.8-510.6] We're giving paid leave to go study
+[510.6-512.7] We take kids from high schools
+[512.7-513.6] And we put them through
+[513.6-514.9] What we call an apprenticeship
+[514.9-516.3] So we make them really study
+[516.3-518.0] But we make them aware of our business
+[518.0-519.2] While they're studying
+[519.2-520.6] So my advice is
+[520.6-522.4] Not to rush into work
+[522.4-523.2] Take your time
+[523.2-524.8] And really try and do something
+[524.8-525.9] That you like doing
+[525.9-527.1] You know, I get up
+[527.1-529.1] Most mornings and like my job
+[529.1-530.7] And I've been doing it for 40 years
+[530.7-531.9] All right, there's bad days
+[531.9-534.0] But most days I'm like
+[534.0-535.1] Yeah, let's go
+[535.1-535.8] This is life
+[535.8-536.8] This is life
+[536.8-538.0] You know, when you're young
+[538.0-539.5] Time goes very slow
+[539.5-541.2] When you're old, love me
+[541.2-542.2] It goes really quick
+[542.2-543.7] So enjoy the time
+[543.7-546.6] When you're in your 20s, 30s, enjoy
+[546.6-547.9] What's your education background?
+[547.9-548.8] Ah, just high school
+[548.8-550.1] Education is necessary?
+[550.1-550.8] Yeah, very
+[550.8-552.3] Not when I was growing up
+[552.3-554.2] My neighborhood, my environment
+[554.2-556.3] Not many people went to university
+[556.3-558.2] So I finished school at 17
+[558.2-559.3] And I got a job
+[559.3-560.2] And I'm still in that job
+[560.2-561.3] Different jobs
+[561.3-563.0] I was playing pretty serious soccer
+[563.0-565.2] So I wanted to be a professional soccer player
+[565.2-567.3] But I didn't quite, you know, make it
+[567.3-568.2] Football player
+[568.2-570.4] Yeah, got played for some good teams
+[570.4-572.3] But never the top teams
+[572.3-573.3] You know, I studied
+[573.3-575.0] And I came out of school at 17
+[575.0-576.4] With O-levels
+[576.4-579.3] But now I would definitely go to university
+[579.3-580.4] If I was young again
+[580.4-581.8] What's your plan in the next five years?
+[581.8-582.5] Retire
+[582.5-583.8] We have a house in Jienn
+[583.8-585.7] I have a property in New York City
+[585.7-589.0] We'll probably buy a small place in London as well
+[589.0-590.6] Because I have four grown children
+[590.6-592.1] Two different marriages
+[592.1-593.2] And I have a grandchild
+[593.2-595.0] And daughter who's five next week
+[595.0-596.7] And another one coming
+[596.7-597.6] So when I retire
+[597.6-599.2] I just want to spend time with my grandchildren
+[599.2-600.4] See what happens next
+[600.4-601.4] I have a feeling that
+[601.4-603.6] If you intermute me in five years time
+[603.6-605.0] Say, well, Steven, what happened?
+[605.0-605.6] I'll go
+[605.6-606.4] Sorry, your name is?
+[606.4-607.2] My name is Vic
+[607.2-607.7] What's the name?
+[607.7-608.3] Steve
+[608.3-609.0] And you?
+[609.0-609.5] And you?
+[609.5-612.0] Bake, if you came to me in five years time
+[612.0-613.6] And said, I see how did it go
+[613.6-614.5] What's the plan now?
+[614.5-616.5] I think what I say to you is like, it's so much fun
+[616.5-618.5] I'm going to stay another five years
